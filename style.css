@@ -157,7 +157,7 @@ a {
   );
   border-radius: 0.8rem;
   font-size: 2rem;
-  transition: all 0.8s;
+  transition: all 0.3s;
 }
 
 .game__reset:hover {
